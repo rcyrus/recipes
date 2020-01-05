@@ -1,6 +1,6 @@
 # Chicken Curry
 
-This is a basic chicken curry recipie. It can be easily adapated to other protiens or as a base for more complicated dishes.
+This is a basic chicken curry recipe. It can be easily adapted to other proteins or as a base for more complicated dishes.
 
 ## Notes
 
@@ -33,7 +33,7 @@ Serves about 4 and goes well with [Daal](./daal.md)
 
 * Remove skin from chicken
 * Onion - cut into slices, I prefer to make very thin slices
-* Tomatos - Cut into wedges, at least quarter
+* tomatos - Cut into wedges, at least quarter
 * jalapenos - slice lengthwise, I prefer thin slices of about 1/4 or thinner. Remove seeds but leave seed ribs
 
 ## Cook

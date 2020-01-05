@@ -2,7 +2,7 @@
 
 Daal can be served on its own but I usually make it to go with [other](./chicken_curry.md) mains. 
 
-This is a basic recipie that can be adapated to many other variants of daal, which are disginushed by constiency (soup-like or paste) or by types of lentils used.
+This is a basic recipe that can be adapted to many other variants of daal, which are distinguished by consistency (soup-like or paste) or by types of lentils used.
 
 ## Ingredients
 
@@ -11,7 +11,7 @@ This is a basic recipie that can be adapated to many other variants of daal, whi
 * 1 tbs curry powder
 * 1/2 tbs salt
 * 2 cups of yellow split peas
-* Optional: Cumin or any other favorite spcies
+* Optional: Cumin or any other favorite spices
 
 ## Prep
 
@@ -22,7 +22,7 @@ This is a basic recipie that can be adapated to many other variants of daal, whi
 
 * put all of it in a pot, add water until you're at least 1" over the peas
 * Bring heat to simmer
-* Stir occassonaly
+* Stir occasionally
 * Cook until peas are mushy
 * Remove dried chilis before serving
 
